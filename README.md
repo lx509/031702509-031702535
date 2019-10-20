@@ -4,6 +4,7 @@
 ---
 1.代码文件
 - 点击try文件夹进入！
+- 进入try文件夹后还有一个try文件夹！
 - 我们将视图文件main.html放在try文件夹里，通过打开此文件运行；
 - CSS文件夹里放置CSS文件（包括bootstrap框架和树结构线条绘制）；
 - HYSuZeLiXiangKaiTruingW.ttf为所用的字体样式；
